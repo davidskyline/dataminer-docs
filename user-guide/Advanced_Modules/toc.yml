@@ -334,6 +334,8 @@ items:
             topicUid: Specifying_data_input_in_URL
           - name: Executing actions via the app URL
             topicUid: Executing_actions_via_URL
+          - name: Best practices
+            topicUid: Low_code_apps_best_practices
           - name: Tutorials
             topicUid: Tutorial_Apps
             items:
