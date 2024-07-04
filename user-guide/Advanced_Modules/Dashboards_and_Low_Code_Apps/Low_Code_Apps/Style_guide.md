@@ -106,7 +106,7 @@ In order to have consistent navigation, we recommend applying the following orde
 
   ![Form pop-up window](~/user-guide/images/LCA_Style_Guide_Form_Popup.gif)
 
-- Every panel should have a close button in the top-right corner. This can be in the menu bar or it can be a separate button.
+- Every panel should have a close button in the top-right corner of the header bar.
 
 ## Components
 
